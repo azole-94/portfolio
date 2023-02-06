@@ -1,0 +1,104 @@
+* {
+  box-sizing: border-box
+}
+
+
+body {
+  background-attachment: fixed;
+  background-size: cover;
+  background-image: url("../images/abstract-background-with-red-lines.jpg");
+}
+
+h2 {
+
+  position: relative;
+  left: 10%;
+  top: 50px;
+}
+
+.container1 {
+  width: 50%;
+  position: relative;
+  left: 10%;
+  top: 150px;
+  background-color: rgb(141, 137, 137);
+}
+
+.skills {
+  text-align: right;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+}
+
+.html {}
+
+.css {}
+
+.js {}
+
+.php {}
+
+
+.HTML {
+  color: white;
+  position: relative;
+  left: 10%;
+  top: 159px;
+}
+
+.CSS {
+  color: white;
+  top: 10px;
+  position: relative;
+  left: 10%;
+  top: 159px;
+
+}
+
+.JS {
+  color: white;
+  top: 10px;
+  position: relative;
+  left: 10%;
+  top: 159px;
+}
+
+.PHP {
+  color: white;
+  top: 10px;
+  position: relative;
+  left: 10%;
+  top: 159px;
+}
+
+.outer {
+  background-color: rgb(190, 190, 190);
+  height: 2rem;
+  width: 50%;
+  border: rgb(240, 238, 238);
+  border-radius: 4pt;
+  align-items: center;
+  position: relative;
+}
+
+.inner {
+  background-color: rgb(229, 255, 0);
+height: 2rem;
+width: 99%;
+border: grey;
+border-radius: 4pt 0pt 0pt 4pt;
+text-align: center;
+display: grid;
+place-content: center;
+color: whitesmoke;
+
+}
+
+.percentage {
+  position: absolute;
+left: 47.5%;
+top: 0px;
+color: black;
+
+}

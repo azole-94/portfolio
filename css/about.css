@@ -1,0 +1,34 @@
+body{
+  background-attachment: fixed;
+  background-size: cover;
+  background-image: url("../images/AdobeStock_286210727_Preview.jpeg");
+}
+h1{
+color: white;
+  text-align: center;
+  
+}
+p1{
+  color: white;
+text-align:center ;
+}
+p2{
+  color: white;
+  text-align: center;
+}
+p3{
+color: white;
+text-align: center;
+}
+p4{
+  color: white;
+  text-align: center;
+  }
+  p5{
+  color: white;
+  text-align: center;  
+  }
+  p6{
+    color: white;
+    text-align: center;
+  }

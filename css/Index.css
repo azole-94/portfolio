@@ -1,0 +1,18 @@
+body{
+background-attachment: fixed;
+ background-size: cover;
+    background-image: url("../images/pexels-veeterzy-303383.jpg");
+    
+}
+  
+.heading{
+  color: white; 
+  text-align: center;  
+}
+
+ li a {
+  color: white;
+}
+
+
+

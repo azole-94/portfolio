@@ -1,0 +1,57 @@
+body{
+    background-attachment: fixed;
+    background-size: cover;
+    background-image: url("../images/AdobeStock_164373509_Preview.jpeg");
+    }
+      h1{
+        color: white;
+        text-align: center;
+      }
+      li a {
+        color: white;
+      }
+.card {
+  display: flex;
+  flex-flow: column;
+  justify-content: space-evenly;
+  padding: 2rem;
+  gap: 1rem;
+  background-color: transparent !important;
+}
+
+.card h1 {
+  font-size: 1.75rem;
+  font-weight: bold;
+  color: white;
+  margin-bottom: 1rem;
+}
+
+.card img {
+  height: 30vh;
+  width: 23vh;
+}
+
+  .card-text {
+    display: flex;
+    flex-flow: column;
+    max-width: 23vh;
+    align-items: center;
+    text-align: center;
+}
+
+
+.card .card-text p {
+  font-size: 1.25rem;
+  color: white;
+}
+
+.card .card-text a {
+  padding: 0.75rem 1.75rem;
+    background-color: #4dff00;
+    color: black;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: .9rem;
+    font-weight: bold;
+
+}
